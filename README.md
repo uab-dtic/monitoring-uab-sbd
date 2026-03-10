@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://uab-dtic.github.io/sbd-uab-monitoring)
+[**Visit our status website →**](https://uab-dtic.github.io/monitoring-uab-sbd)
 
 ## 📄 License
 
