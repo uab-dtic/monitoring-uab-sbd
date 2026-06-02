@@ -1,7 +1,7 @@
 url: https://glpi.sbd.uab.cat/index.php?noAUTO=1
-status: up
-code: 200
-responseTime: 643
-lastUpdated: 2026-06-01T23:32:37.725Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-06-02T22:30:34.800Z
 startTime: 2026-03-10T11:38:37.612Z
 generator: Upptime <https://github.com/upptime/upptime>
