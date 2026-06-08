@@ -1,4 +1,4 @@
-# [📈 Live Status](https://uab-dtic.github.io/monitoring-uab-sbd): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://JoriRoman.github.io/monitoring-uab-sbd): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [UAB Campus Sabadell](https://JordiRoman.github.io/monitoring-uab-sbd), powered by [Upptime](https://github.com/upptime/upptime).
 
